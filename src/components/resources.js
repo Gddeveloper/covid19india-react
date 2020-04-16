@@ -497,7 +497,7 @@ function Resources(props) {
                 </h6>
               </Popover>
               <a
-                href="https://docs.google.com/forms/d/e/1FAIpQLSfquevp7_rdgdEoDgTdimWwTXO3B9TjFEAm3DbrMDXxCiuwuA/viewform"
+                href="#"
                 className="button add-entry is-purple"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -506,7 +506,7 @@ function Resources(props) {
                 <span>Add</span>
               </a>
               <a
-                href="https://forms.gle/AG5hmYxyhto3NjU46"
+                href="#"
                 className="button add-entry is-purple"
                 target="_blank"
                 rel="noopener noreferrer"
